@@ -1,0 +1,47 @@
+# System Design: Learning Progress
+
+This branch represents the first stage of my System Design learning journey. I started with the fundamentals and learned how basic systems are structured, scaled, and designed to handle increasing traffic.
+
+## Topics Covered
+
+### 1. Introduction to System Design
+
+Learned the fundamentals of System Design and why it is important when building large-scale software systems.
+
+### 2. Single Server Setup
+
+Learned how an application can initially be deployed on a single server and understood the limitations of this approach as the number of users and requests increases.
+
+### 3. Databases : SQL, NoSQL & Graph
+
+Explored different types of databases and their use cases:
+
+* SQL Databases
+* NoSQL Databases
+* Graph Databases
+
+The goal was to understand that different applications may require different database approaches depending on their data and requirements.
+
+### 4. Vertical vs Horizontal Scaling
+
+Learned the two major approaches to scaling a system:
+
+* **Vertical Scaling:** Increasing the resources of an existing server.
+* **Horizontal Scaling:** Adding more servers to distribute the workload.
+
+### 5. Load Balancing
+
+Learned how a Load Balancer distributes incoming requests among multiple servers.
+
+This helps systems:
+
+* Distribute traffic
+* Avoid overloading a single server
+* Improve availability
+* Support horizontal scaling
+
+## Progress
+
+**Completed:** Introduction → Single Server → Databases → Scaling → Load Balancing
+
+This is the first stage of my System Design learning journey. I will continue building on these fundamentals as I learn more about designing scalable and reliable systems.
