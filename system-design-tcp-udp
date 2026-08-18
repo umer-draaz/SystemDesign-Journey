@@ -1,0 +1,56 @@
+# System Design: Learning Progress
+
+This branch represents the second stage of my System Design learning journey. After learning the fundamentals of system architecture, scaling, and load balancing, I continued with system reliability, APIs, and networking concepts.
+
+## Topics Covered
+
+### 1. Introduction to System Design
+
+Learned the fundamentals of System Design and its importance in building scalable and reliable software systems.
+
+### 2. Single Server Setup
+
+Learned how applications can initially run on a single server and understood the limitations of this architecture.
+
+### 3. Databases: SQL, NoSQL & Graph
+
+Explored SQL, NoSQL, and Graph databases and their different use cases.
+
+### 4. Vertical vs Horizontal Scaling
+
+Learned how systems can scale by increasing the resources of an existing server or by adding multiple servers.
+
+### 5. Load Balancing
+
+Learned how load balancers distribute incoming requests across multiple servers to improve scalability and availability.
+
+### 6. Health Checks
+
+Learned how systems monitor the health of servers and services and prevent traffic from being directed toward unhealthy instances.
+
+### 7. Single Point of Failure (SPOF)
+
+Learned about components whose failure can cause an entire system or critical part of it to become unavailable.
+
+Understanding SPOF helps in designing systems with better reliability and fault tolerance.
+
+### 8. API Design
+
+Learned the fundamentals of designing APIs and how APIs allow different software components to communicate with each other.
+
+### 9. API Protocols
+
+Explored protocols and approaches used for communication between different systems and services.
+
+### 10. Transport Layer: TCP & UDP
+
+Learned the fundamentals of the Transport Layer and the two major transport protocols:
+
+* **TCP:** Connection-oriented and reliable communication.
+* **UDP:** Connectionless communication with lower overhead.
+
+Also learned the basic differences between TCP and UDP and where each protocol can be useful.
+
+## Progress
+
+**Completed:** Introduction → Single Server → Databases → Scaling → Load Balancing → Health Checks → SPOF → API Design → API Protocols → TCP & UDP
