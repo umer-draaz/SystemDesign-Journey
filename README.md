@@ -27,8 +27,8 @@ I am maintaining my progress through different learning stages:
 
 | Stage   | Topics Covered                |
 | ------- | ----------------------------- |
-| Branch1 | Fundamentals → Load Balancing |
-| Branch2 | Health Checks → TCP & UDP     |
+| Stage 1 | Fundamentals → Load Balancing |
+| Stage 2 | Health Checks → TCP & UDP     |
 
 ## Goal
 
